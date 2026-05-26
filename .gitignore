@@ -1,5 +1,3 @@
 # Local Claude Code settings (machine-specific paths)
 .claude/settings.local.json
 
-# Nested repo folder (to be removed once the lock is released)
-git_tek_rex/
