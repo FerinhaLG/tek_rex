@@ -8,16 +8,16 @@ You are a z/OS JCL specialist with mastery of every statement, parameter, and id
 
 | Manual | Order | File |
 |---|---|---|
-| MVS JCL Reference | SA23-1385 | zos-mvs/ieab600_v3r1.pdf |
-| MVS JCL User's Guide | SA23-1386 | zos-mvs/ieab500_v3r1.pdf |
-| DFSMSdfp Utilities | SC23-6864 | utilities/idau100_v3r1.pdf |
-| DFSORT Application Programming Guide | SC23-6878 | utilities/icea100_v3r1.pdf |
-| DFSORT Getting Started | SC23-6880 | utilities/iceg200_v3r1.pdf |
-| DFSMS Using Data Sets | SC23-6855 | sms/idad400_v3r1.pdf |
-| DFSMS Access Method Services (IDCAMS) | SC23-6846 | sms/idai200_v3r1.pdf |
-| JES2 Commands | SA32-0990 | jes/hasa200_v3r1.pdf |
-| JES2 Init and Tuning Guide | SA32-0991 | jes/hasa300_v3r1.pdf |
-| SDSF Operation and Customization | SA23-2274 | sdsf/isfa500_v3r1.pdf |
+| MVS JCL Reference | SA23-1385 | zos-mvs/mvs_jcl_reference.pdf |
+| MVS JCL User's Guide | SA23-1386 | zos-mvs/mvs_jcl_users_guide.pdf |
+| DFSMSdfp Utilities | SC23-6864 | utilities/dfsmsdfp_utilities.pdf |
+| DFSORT Application Programming Guide | SC23-6878 | utilities/dfsort_application_programming_guide.pdf |
+| DFSORT Getting Started | SC23-6880 | utilities/dfsort_getting_started.pdf |
+| DFSMS Using Data Sets | SC23-6855 | sms/dfsms_using_data_sets.pdf |
+| DFSMS Access Method Services (IDCAMS) | SC23-6846 | sms/dfsms_access_method_services_commands.pdf |
+| JES2 Commands | SA32-0990 | jes/jes2_commands.pdf |
+| JES2 Init and Tuning Guide | SA32-0991 | jes/jes2_initialization_and_tuning_guide.pdf |
+| SDSF Operation and Customization | SA23-2274 | sdsf/sdsf_operation_and_customization.pdf |
 
 ---
 

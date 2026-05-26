@@ -8,30 +8,33 @@ You are a z/OS systems programmer who specializes in problem determination via m
 
 | Folder | File | Covers |
 |---|---|---|
-| zos-mvs/ | ieah700_v3r1.pdf | **System Codes (SA38-0665)** — all Sxxx/Uxxx/Wxxx abend codes + reason codes |
-| zos-mvs/ | ieam100_v3r1.pdf | **System Messages Vol 1 (SA38-0668)** — ABA through AOM |
-| zos-mvs/ | ieam200_v3r1.pdf | **System Messages Vol 2 (SA38-0669)** — ARC through ASA |
-| zos-mvs/ | ieam300_v3r1.pdf | **System Messages Vol 3 (SA38-0670)** — ASB through BPX |
-| zos-mvs/ | ieam400_v3r1.pdf | **System Messages Vol 4 (SA38-0671)** — CBD through DMO |
-| zos-mvs/ | ieam500_v3r1.pdf | **System Messages Vol 5 (SA38-0672)** — EDG through GLZ |
-| zos-mvs/ | ieam600_v3r1.pdf | **System Messages Vol 6 (SA38-0673)** — GOS through IEA |
-| zos-mvs/ | ieam700_v3r1.pdf | **System Messages Vol 7 (SA38-0674)** — IEB through IEE |
-| zos-mvs/ | ieam800_v3r1.pdf | **System Messages Vol 8 (SA38-0675)** — IEF through IGD |
-| zos-mvs/ | ieam900_v3r1.pdf | **System Messages Vol 9 (SA38-0676)** — IGF through IWM |
-| zos-mvs/ | ieama00_v3r1.pdf | **System Messages Vol 10 (SA38-0677)** — IXC through IZP |
-| zos-mvs/ | ieag200_v3r1.pdf | **SMF (SA38-0667)** — record types, layouts |
-| zos-mvs/ | ieag100_v3r1.pdf | **MVS System Commands (SA38-0666)** |
-| racf/ | icha600_v3r1.pdf | **RACF Messages and Codes (SA23-2291)** — ICH* messages |
-| jes/ | hasa200_v3r1.pdf | **JES2 Commands (SA32-0990)** — HAS*, $HASP messages |
-| jes/ | hasa300_v3r1.pdf | **JES2 Initialization and Tuning Guide (SA32-0991)** |
-| smf-rmf/ | erba200_v3r1.pdf | **RMF Messages and Codes (SC34-2666)** — ERB* messages |
-| networking/ | halw001_v3r1.pdf | **IP Messages Vol 2 (EZB, EZD)** |
-| networking/ | halb001_v3r1.pdf | **IP Messages Vol 3 (EZY)** |
-| networking/ | halb101_v3r1.pdf | **IP Messages Vol 4 (EZZ, SNM)** |
-| networking/ | cs3cod0_v3r1.pdf | **IP and SNA Codes (SC27-3648)** |
-| zos-unix/ | bpxa800_v3r1.pdf | **USS Messages and Codes (SA23-2284)** — BPX* + errno values |
-| sdsf/ | isfa500_v3r1.pdf | **SDSF Operation and Customization (SA23-2274)** — ISF* messages |
-| zosmf/ | izua300_v3r1.pdf | **z/OSMF Configuration Guide (SC27-8419)** — IZU* messages |
+| zos-mvs/ | mvs_system_codes.pdf | **System Codes (SA38-0665)** — all Sxxx/Uxxx/Wxxx abend codes + reason codes |
+| zos-mvs/ | mvs_system_messages_vol_1_aba-aom.pdf | **System Messages Vol 1 (SA38-0668)** — ABA through AOM |
+| zos-mvs/ | mvs_system_messages_vol_2_arc-asa.pdf | **System Messages Vol 2 (SA38-0669)** — ARC through ASA |
+| zos-mvs/ | mvs_system_messages_vol_3_asb-bpx.pdf | **System Messages Vol 3 (SA38-0670)** — ASB through BPX |
+| zos-mvs/ | mvs_system_messages_vol_4_cbd-dmo.pdf | **System Messages Vol 4 (SA38-0671)** — CBD through DMO |
+| zos-mvs/ | mvs_system_messages_vol_5_edg-glz.pdf | **System Messages Vol 5 (SA38-0672)** — EDG through GLZ |
+| zos-mvs/ | mvs_system_messages_vol_6_gos-iea.pdf | **System Messages Vol 6 (SA38-0673)** — GOS through IEA |
+| zos-mvs/ | mvs_system_messages_vol_7_ieb-iee.pdf | **System Messages Vol 7 (SA38-0674)** — IEB through IEE |
+| zos-mvs/ | mvs_system_messages_vol_8_ief-igd.pdf | **System Messages Vol 8 (SA38-0675)** — IEF through IGD |
+| zos-mvs/ | mvs_system_messages_vol_9_igf-iwm.pdf | **System Messages Vol 9 (SA38-0676)** — IGF through IWM |
+| zos-mvs/ | mvs_system_messages_vol_10_ixc-izp.pdf | **System Messages Vol 10 (SA38-0677)** — IXC through IZP |
+| zos-mvs/ | mvs_system_management_facilities_smf.pdf | **SMF (SA38-0667)** — record types, layouts |
+| zos-mvs/ | mvs_system_commands.pdf | **MVS System Commands (SA38-0666)** |
+| racf/ | racf_messages_and_codes.pdf | **RACF Messages and Codes (SA23-2291)** — ICH* messages |
+| jes/ | jes2_commands.pdf | **JES2 Commands (SA32-0990)** — HAS*, $HASP messages |
+| jes/ | jes2_initialization_and_tuning_guide.pdf | **JES2 Initialization and Tuning Guide (SA32-0991)** |
+| smf-rmf/ | rmf_messages_and_codes.pdf | **RMF Messages and Codes (SC34-2666)** — ERB* messages |
+| networking/ | ip_messages_vol_2_ezb_ezd.pdf | **IP Messages Vol 2 (EZB, EZD)** |
+| networking/ | ip_messages_vol_3_ezy.pdf | **IP Messages Vol 3 (EZY)** |
+| networking/ | ip_messages_vol_4_ezz_snm.pdf | **IP Messages Vol 4 (EZZ, SNM)** |
+| networking/ | ip_and_sna_codes.pdf | **IP and SNA Codes (SC27-3648)** |
+| zos-unix/ | unix_system_services_messages_and_codes.pdf | **USS Messages and Codes (SA23-2284)** — BPX* + errno values |
+| sdsf/ | sdsf_operation_and_customization.pdf | **SDSF Operation and Customization (SA23-2274)** — ISF* messages |
+| zosmf/ | zosmf_configuration_guide.pdf | **z/OSMF Configuration Guide (SC27-8419)** — IZU* messages |
+| automation/netview/ | netview_messages_codes_vol1_AAU-DSI.pdf | **NetView Messages Vol 1 (GC27-2856)** — AAU–DSI |
+| automation/netview/ | netview_messages_codes_vol2_DUI-IHS.pdf | **NetView Messages Vol 2 (GC27-2857)** — DUI–IHS |
+| automation/sa-zos/ | sa_messages_and_codes.pdf | **SA z/OS Messages and Codes (SC34-2719)** — ING*, AOF* messages |
 
 ---
 
@@ -62,100 +65,100 @@ Use this table to immediately identify which manual to consult for any message I
 
 | Prefix | Component | Manual | File |
 |---|---|---|---|
-| `ABA` | Unknown/misc | Sys Msg Vol 1 SA38-0668 | ieam100_v3r1.pdf |
-| `ADR` | DFSMSdss (ADRDSSU) | Sys Msg Vol 1 SA38-0668 | ieam100_v3r1.pdf |
-| `AHB` | Tape management | Sys Msg Vol 1 SA38-0668 | ieam100_v3r1.pdf |
-| `AOM` | Network mgmt | Sys Msg Vol 1 SA38-0668 | ieam100_v3r1.pdf |
-| `ARC` | DFSMShsm | Sys Msg Vol 2 SA38-0669 | ieam200_v3r1.pdf |
-| `ASB` | Address space / RSM | Sys Msg Vol 3 SA38-0670 | ieam300_v3r1.pdf |
+| `ABA` | Unknown/misc | Sys Msg Vol 1 SA38-0668 | mvs_system_messages_vol_1_aba-aom.pdf |
+| `ADR` | DFSMSdss (ADRDSSU) | Sys Msg Vol 1 SA38-0668 | mvs_system_messages_vol_1_aba-aom.pdf |
+| `AHB` | Tape management | Sys Msg Vol 1 SA38-0668 | mvs_system_messages_vol_1_aba-aom.pdf |
+| `AOM` | Network mgmt | Sys Msg Vol 1 SA38-0668 | mvs_system_messages_vol_1_aba-aom.pdf |
+| `ARC` | DFSMShsm | Sys Msg Vol 2 SA38-0669 | mvs_system_messages_vol_2_arc-asa.pdf |
+| `ASB` | Address space / RSM | Sys Msg Vol 3 SA38-0670 | mvs_system_messages_vol_3_asb-bpx.pdf |
 
 ### B-prefixes
 
 | Prefix | Component | Manual | File |
 |---|---|---|---|
-| `BPX` | z/OS UNIX System Services | Sys Msg Vol 3 SA38-0670 + USS Msgs SA23-2284 | ieam300_v3r1.pdf / bpxa800_v3r1.pdf |
+| `BPX` | z/OS UNIX System Services | Sys Msg Vol 3 SA38-0670 + USS Msgs SA23-2284 | mvs_system_messages_vol_3_asb-bpx.pdf / unix_system_services_messages_and_codes.pdf |
 
 ### C-prefixes
 
 | Prefix | Component | Manual | File |
 |---|---|---|---|
-| `CBD` | WLM / address space | Sys Msg Vol 4 SA38-0671 | ieam400_v3r1.pdf |
-| `CFR` | Cross-facility / coupling | Sys Msg Vol 4 SA38-0671 | ieam400_v3r1.pdf |
-| `CNZ` | Console Services (SYSLOG/OPERLOG) | Sys Msg Vol 4 SA38-0671 | ieam400_v3r1.pdf |
-| `CSV` | Contents Supervisor (LPA, APF, LNKLST) | Sys Msg Vol 4 SA38-0671 | ieam400_v3r1.pdf |
+| `CBD` | WLM / address space | Sys Msg Vol 4 SA38-0671 | mvs_system_messages_vol_4_cbd-dmo.pdf |
+| `CFR` | Cross-facility / coupling | Sys Msg Vol 4 SA38-0671 | mvs_system_messages_vol_4_cbd-dmo.pdf |
+| `CNZ` | Console Services (SYSLOG/OPERLOG) | Sys Msg Vol 4 SA38-0671 | mvs_system_messages_vol_4_cbd-dmo.pdf |
+| `CSV` | Contents Supervisor (LPA, APF, LNKLST) | Sys Msg Vol 4 SA38-0671 | mvs_system_messages_vol_4_cbd-dmo.pdf |
 
 ### D-prefixes
 
 | Prefix | Component | Manual | File |
 |---|---|---|---|
-| `DFS` | DFSMS file system | Sys Msg Vol 4 SA38-0671 | ieam400_v3r1.pdf |
-| `DMO` | Device/mount operations | Sys Msg Vol 4 SA38-0671 | ieam400_v3r1.pdf |
+| `DFS` | DFSMS file system | Sys Msg Vol 4 SA38-0671 | mvs_system_messages_vol_4_cbd-dmo.pdf |
+| `DMO` | Device/mount operations | Sys Msg Vol 4 SA38-0671 | mvs_system_messages_vol_4_cbd-dmo.pdf |
 
 ### E-prefixes
 
 | Prefix | Component | Manual | File |
 |---|---|---|---|
-| `EDG` | DFDSSdss / DFDSS | Sys Msg Vol 5 SA38-0672 | ieam500_v3r1.pdf |
-| `ERB` | RMF (Resource Measurement Facility) | RMF Messages SC34-2666 | erba200_v3r1.pdf |
-| `EZA` | TCP/IP Sockets (CICS/IMS) | IP Messages | halw001_v3r1.pdf |
-| `EZB` | TCP/IP base stack | IP Messages Vol 2 | halw001_v3r1.pdf |
-| `EZD` | TCP/IP PAGENT/Policy | IP Messages Vol 2 | halw001_v3r1.pdf |
-| `EZY` | TCP/IP applications | IP Messages Vol 3 | halb001_v3r1.pdf |
-| `EZZ` | TCP/IP stack/resolver | IP Messages Vol 4 | halb101_v3r1.pdf |
+| `EDG` | DFDSSdss / DFDSS | Sys Msg Vol 5 SA38-0672 | mvs_system_messages_vol_5_edg-glz.pdf |
+| `ERB` | RMF (Resource Measurement Facility) | RMF Messages SC34-2666 | rmf_messages_and_codes.pdf |
+| `EZA` | TCP/IP Sockets (CICS/IMS) | IP Messages | ip_messages_vol_2_ezb_ezd.pdf |
+| `EZB` | TCP/IP base stack | IP Messages Vol 2 | ip_messages_vol_2_ezb_ezd.pdf |
+| `EZD` | TCP/IP PAGENT/Policy | IP Messages Vol 2 | ip_messages_vol_2_ezb_ezd.pdf |
+| `EZY` | TCP/IP applications | IP Messages Vol 3 | ip_messages_vol_3_ezy.pdf |
+| `EZZ` | TCP/IP stack/resolver | IP Messages Vol 4 | ip_messages_vol_4_ezz_snm.pdf |
 
 ### G-prefixes
 
 | Prefix | Component | Manual | File |
 |---|---|---|---|
-| `GIM` | SMP/E | Sys Msg Vol 5 SA38-0672 | ieam500_v3r1.pdf |
-| `GOS` | GRS (Global Resource Serialization) | Sys Msg Vol 6 SA38-0673 | ieam600_v3r1.pdf |
-| `GRS` | GRS (enqueue/dequeue) | Sys Msg Vol 6 SA38-0673 | ieam600_v3r1.pdf |
+| `GIM` | SMP/E | Sys Msg Vol 5 SA38-0672 | mvs_system_messages_vol_5_edg-glz.pdf |
+| `GOS` | GRS (Global Resource Serialization) | Sys Msg Vol 6 SA38-0673 | mvs_system_messages_vol_6_gos-iea.pdf |
+| `GRS` | GRS (enqueue/dequeue) | Sys Msg Vol 6 SA38-0673 | mvs_system_messages_vol_6_gos-iea.pdf |
 
 ### H-prefixes
 
 | Prefix | Component | Manual | File |
 |---|---|---|---|
-| `$HASP` / `HAS` | JES2 | JES2 Commands SA32-0990 | hasa200_v3r1.pdf |
+| `$HASP` / `HAS` | JES2 | JES2 Commands SA32-0990 | jes2_commands.pdf |
 
 ### I-prefixes (the most important — highest message volume)
 
 | Prefix | Component | Manual | File |
 |---|---|---|---|
-| `IAR` | Real storage manager | Sys Msg Vol 6 SA38-0673 | ieam600_v3r1.pdf |
-| `IDA` | VSAM data management | Sys Msg Vol 6 SA38-0673 | ieam600_v3r1.pdf |
-| `IEA` | BCP base (IPL, storage, dispatching) | Sys Msg Vol 6 SA38-0673 | ieam600_v3r1.pdf |
-| `IEB` | Utility programs (IEBGENER, IEBCOPY, IEBUPDTE, IEHMOVE…) | Sys Msg Vol 7 SA38-0674 | ieam700_v3r1.pdf |
-| `IEC` | Data management (OPEN/CLOSE/EOV/ABEND on data sets) | Sys Msg Vol 7 SA38-0674 | ieam700_v3r1.pdf |
-| `IEE` | Master scheduler / operator console | Sys Msg Vol 7 SA38-0674 | ieam700_v3r1.pdf |
-| `IEF` | JES/Initiator (JCL errors, allocation, step termination) | Sys Msg Vol 8 SA38-0675 | ieam800_v3r1.pdf |
-| `IFB` | IFAEDITOR / EREP | Sys Msg Vol 8 SA38-0675 | ieam800_v3r1.pdf |
-| `IGD` | DFSMS / SMS (storage group, ACS routines, class selection) | Sys Msg Vol 8 SA38-0675 | ieam800_v3r1.pdf |
-| `IGF` | DFSMS fast path | Sys Msg Vol 9 SA38-0676 | ieam900_v3r1.pdf |
-| `IGG` | VSAM / access methods | Sys Msg Vol 9 SA38-0676 | ieam900_v3r1.pdf |
-| `IGW` | DFSMS object access | Sys Msg Vol 9 SA38-0676 | ieam900_v3r1.pdf |
-| `ICH` | RACF (Security Server) | RACF Messages SA23-2291 | icha600_v3r1.pdf |
-| `IKJ` | TSO/E | Sys Msg Vol 9 SA38-0676 | ieam900_v3r1.pdf |
-| `IML` | IML / hardware messages | Sys Msg Vol 9 SA38-0676 | ieam900_v3r1.pdf |
-| `IOS` | I/O Supervisor (DASD I/O errors, path recovery) | Sys Msg Vol 9 SA38-0676 | ieam900_v3r1.pdf |
-| `IRA` | RSM / real storage | Sys Msg Vol 9 SA38-0676 | ieam900_v3r1.pdf |
-| `IRB` | Dispatcher | Sys Msg Vol 9 SA38-0676 | ieam900_v3r1.pdf |
-| `ISF` | SDSF | Sys Msg Vol 9 SA38-0676 + SDSF guide | ieam900_v3r1.pdf / isfa500_v3r1.pdf |
-| `IST` | VTAM / SNA | Sys Msg Vol 9 SA38-0676 + SNA Messages | ieam900_v3r1.pdf / istmnc0_v3r1.pdf |
-| `IWM` | Workload Manager (WLM) | Sys Msg Vol 9 SA38-0676 | ieam900_v3r1.pdf |
-| `IXC` | XCF / Sysplex coupling facility | Sys Msg Vol 10 SA38-0677 | ieama00_v3r1.pdf |
-| `IZU` | z/OSMF | Sys Msg Vol 10 SA38-0677 + z/OSMF guide | ieama00_v3r1.pdf / izua300_v3r1.pdf |
+| `IAR` | Real storage manager | Sys Msg Vol 6 SA38-0673 | mvs_system_messages_vol_6_gos-iea.pdf |
+| `IDA` | VSAM data management | Sys Msg Vol 6 SA38-0673 | mvs_system_messages_vol_6_gos-iea.pdf |
+| `IEA` | BCP base (IPL, storage, dispatching) | Sys Msg Vol 6 SA38-0673 | mvs_system_messages_vol_6_gos-iea.pdf |
+| `IEB` | Utility programs (IEBGENER, IEBCOPY, IEBUPDTE, IEHMOVE…) | Sys Msg Vol 7 SA38-0674 | mvs_system_messages_vol_7_ieb-iee.pdf |
+| `IEC` | Data management (OPEN/CLOSE/EOV/ABEND on data sets) | Sys Msg Vol 7 SA38-0674 | mvs_system_messages_vol_7_ieb-iee.pdf |
+| `IEE` | Master scheduler / operator console | Sys Msg Vol 7 SA38-0674 | mvs_system_messages_vol_7_ieb-iee.pdf |
+| `IEF` | JES/Initiator (JCL errors, allocation, step termination) | Sys Msg Vol 8 SA38-0675 | mvs_system_messages_vol_8_ief-igd.pdf |
+| `IFB` | IFAEDITOR / EREP | Sys Msg Vol 8 SA38-0675 | mvs_system_messages_vol_8_ief-igd.pdf |
+| `IGD` | DFSMS / SMS (storage group, ACS routines, class selection) | Sys Msg Vol 8 SA38-0675 | mvs_system_messages_vol_8_ief-igd.pdf |
+| `IGF` | DFSMS fast path | Sys Msg Vol 9 SA38-0676 | mvs_system_messages_vol_9_igf-iwm.pdf |
+| `IGG` | VSAM / access methods | Sys Msg Vol 9 SA38-0676 | mvs_system_messages_vol_9_igf-iwm.pdf |
+| `IGW` | DFSMS object access | Sys Msg Vol 9 SA38-0676 | mvs_system_messages_vol_9_igf-iwm.pdf |
+| `ICH` | RACF (Security Server) | RACF Messages SA23-2291 | racf_messages_and_codes.pdf |
+| `IKJ` | TSO/E | Sys Msg Vol 9 SA38-0676 | mvs_system_messages_vol_9_igf-iwm.pdf |
+| `IML` | IML / hardware messages | Sys Msg Vol 9 SA38-0676 | mvs_system_messages_vol_9_igf-iwm.pdf |
+| `IOS` | I/O Supervisor (DASD I/O errors, path recovery) | Sys Msg Vol 9 SA38-0676 | mvs_system_messages_vol_9_igf-iwm.pdf |
+| `IRA` | RSM / real storage | Sys Msg Vol 9 SA38-0676 | mvs_system_messages_vol_9_igf-iwm.pdf |
+| `IRB` | Dispatcher | Sys Msg Vol 9 SA38-0676 | mvs_system_messages_vol_9_igf-iwm.pdf |
+| `ISF` | SDSF | Sys Msg Vol 9 SA38-0676 + SDSF guide | mvs_system_messages_vol_9_igf-iwm.pdf / sdsf_operation_and_customization.pdf |
+| `IST` | VTAM / SNA | Sys Msg Vol 9 SA38-0676 + SNA Messages | mvs_system_messages_vol_9_igf-iwm.pdf / sna_messages.pdf |
+| `IWM` | Workload Manager (WLM) | Sys Msg Vol 9 SA38-0676 | mvs_system_messages_vol_9_igf-iwm.pdf |
+| `IXC` | XCF / Sysplex coupling facility | Sys Msg Vol 10 SA38-0677 | mvs_system_messages_vol_10_ixc-izp.pdf |
+| `IZU` | z/OSMF | Sys Msg Vol 10 SA38-0677 + z/OSMF guide | mvs_system_messages_vol_10_ixc-izp.pdf / zosmf_configuration_guide.pdf |
 
 ### S-prefixes (SNA/VTAM)
 
 | Prefix | Component | Manual | File |
 |---|---|---|---|
-| `SNM` | SNMP | IP Messages Vol 4 | halb101_v3r1.pdf |
+| `SNM` | SNMP | IP Messages Vol 4 | ip_messages_vol_4_ezz_snm.pdf |
 
 ---
 
 ## System completion codes (abend codes)
 
-All codes defined in **MVS System Codes (SA38-0665)** → `docs/zos-mvs/ieah700_v3r1.pdf`.
+All codes defined in **MVS System Codes (SA38-0665)** → `docs/zos-mvs/mvs_system_codes.pdf`.
 
 ### Program check interrupts (S0Cx)
 
@@ -314,7 +317,7 @@ All codes defined in **MVS System Codes (SA38-0665)** → `docs/zos-mvs/ieah700_
 
 ## SMF record quick reference
 
-SMF records in `docs/zos-mvs/ieag200_v3r1.pdf` (SA38-0667):
+SMF records in `docs/zos-mvs/mvs_system_management_facilities_smf.pdf` (SA38-0667):
 
 | Type | Content |
 |---|---|
@@ -369,7 +372,7 @@ For a **job failure**, collect these spool data sets in order:
 ### Step 3 — Map abend code to cause
 
 If you see `IEF295I` or `IEF374I`, the next lines will give you:
-- System code: `S0C7`, `S322`, etc. → look up in System Codes (ieah700_v3r1.pdf)
+- System code: `S0C7`, `S322`, etc. → look up in System Codes (mvs_system_codes.pdf)
 - User code: `U4038`, `U0100` → look up in the application's documentation
 - Reason code (hex): further narrows the cause within the system component
 

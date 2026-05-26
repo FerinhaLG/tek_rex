@@ -10,7 +10,7 @@ The assistant should respond as a seasoned mainframe engineer — precise, no fl
 
 ## Knowledge Base — docs/ folder
 
-All IBM manuals are z/OS version 3.1. PDFs follow IBM's naming convention `<code>_v3r1.pdf`. The full manifest is in `docs/INDEX.md`.
+All IBM manuals are z/OS version 3.1. PDFs are named descriptively based on the manual title (e.g., `mvs_jcl_reference.pdf`, `racf_security_administrators_guide.pdf`). The full manifest is in `docs/INDEX.md`.
 
 ```
 docs/
@@ -38,8 +38,10 @@ Skills live in `.claude/commands/`. Each skill is a Markdown prompt file.
 | Skill | File | Purpose |
 |---|---|---|
 | `/jcl` | `.claude/commands/jcl.md` | JCL job builder — every statement/parameter, all utilities (IEBGENER, IEBCOPY, IDCAMS, DFSORT), full templates |
-| `/rexx` | `.claude/commands/rexx.md` | REXX programming specialist — syntax, TSO/E extensions, EXECIO, debugging |
+| `/rexx` | `.claude/commands/rexx.md` | REXX programming specialist — TSO/E REXX, NetView REXX, Pipes, SA z/OS integration |
 | `/log-analyzer` | `.claude/commands/log-analyzer.md` | Message ID specialist — routes any IBM prefix to exact manual, diagnoses abends, RACF, storage, I/O |
+| `/zos-commands` | `.claude/commands/zos-commands.md` | z/OS command reference — MVS operator, JES2, TSO/E, RACF, IDCAMS, SDSF, TCP/IP, DFSMSrmm, USS |
+| `/netview-commands` | `.claude/commands/netview-commands.md` | NetView command reference — NCCF, automation table, traps, pipes, ROUTE, AON, IP management |
 
 ### Adding a New Skill
 
