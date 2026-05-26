@@ -1,0 +1,35 @@
+=== Tek-Rex Automation Download Mon, May 25, 2026 10:38:38 PM ===
+[OK 1132KB FALLBACK] netview/netview_installation_migration_guide.pdf
+[OK 2324KB FALLBACK] netview/netview_command_ref_vol2_O-Z.pdf
+[OK 3088KB FALLBACK] netview/netview_automation_guide.pdf
+[OK 1420KB FALLBACK] netview/netview_security_reference.pdf
+[OK 1296KB FALLBACK] netview/netview_installation_getting_started.pdf
+[OK 3116KB FALLBACK] netview/netview_messages_codes_vol2_DUI-IHS.pdf
+[OK 1688KB FALLBACK] netview/netview_installation_configuring_components.pdf
+[OK 1912KB FALLBACK] netview/netview_users_guide.pdf
+[OK 1672KB FALLBACK] netview/netview_programming_pipes.pdf
+[OK 2400KB FALLBACK] netview/netview_command_ref_vol1_A-N.pdf
+[OK 4840KB FALLBACK] netview/netview_administration_reference.pdf
+[OK 2740KB FALLBACK] netview/netview_messages_codes_vol1_AAU-DSI.pdf
+[FAIL 404] netview/netview_messages_codes_vol4_NPD-SNE.pdf
+[OK 1228KB FALLBACK] netview/netview_programming_rexx.pdf
+[OK 1340KB FALLBACK] netview/netview_application_programmers_guide.pdf
+[OK 3124KB FALLBACK] netview/netview_troubleshooting_guide.pdf
+[OK 2424KB FALLBACK] netview/netview_ip_management.pdf
+[OK 1932KB FALLBACK] netview/netview_users_guide_aon.pdf
+[FAIL 404] netview/netview_messages_codes_vol3_IHS-NPD.pdf
+[OK 1168KB FALLBACK] netview/netview_tuning_guide.pdf
+[FAIL 404] sa-zos/sa_defining_automation_policy.pdf
+[OK 3080KB 6.4/4.4] sa-zos/sa_getting_started.pdf
+[OK 3824KB 6.4/4.4] sa-zos/sa_planning_and_installation.pdf
+[OK 2360KB 6.4/4.4] sa-zos/sa_operators_commands.pdf
+[OK 7416KB 6.4/4.4] sa-zos/sa_end_to_end_automation.pdf
+[OK 5268KB 6.4/4.4] sa-zos/sa_users_guide.pdf
+[OK 2600KB 6.4/4.4] sa-zos/sa_messages_and_codes.pdf
+[OK 9660KB FALLBACK] sa-zos/sa_service_management_unite_automation.pdf
+[FAIL 404] sa-zos/sa_programmers_reference.pdf
+[FAIL 404] sa-zos/sa_configuration_guide.pdf
+[FAIL 404] sa-zos/sa_whats_new.pdf
+[FAIL 404] sa-zos/sa_customization_and_administration.pdf
+[FAIL 404] sa-zos/sa_automation_policy_reference.pdf
+[FAIL 404] sa-zos/sa_sysplex_automation.pdf
